@@ -1,11 +1,8 @@
 # Table of contents
 
-* [record\_books](README.md)
-  * [Ch1](readme/ch1.md)
+* [😎 INDEX](README.md)
+* [📕 record\_books](<README (1).md>)
+  * [Ch1](readme/ch1/README.md)
+    * [1.1 example](readme/ch1/1.1-example.md)
+    * [1.2](readme/ch1/1.2.md)
   * [Ch2](readme/ch2.md)
-
-## 📕 리팩터링 2판
-
-* [Page](2/page.md)
-* [Page 1](2/page-1.md)
-* [Page 2](2/page-2.md)
