@@ -7,3 +7,4 @@
   * [Ch8](refactoring-2nd/ch8.md)
   * [Ch9](refactoring-2nd/ch9.md)
   * [Ch10](refactoring-2nd/ch10.md)
+  * [Ch11](refactoring-2nd/ch11.md)
