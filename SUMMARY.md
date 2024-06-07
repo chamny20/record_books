@@ -15,4 +15,4 @@
   * [🕚 Ch11](refactoring-2nd/ch11.md)
 * [📘 Effective Typescript](effective-typescript/README.md)
   * [Ch1](effective-typescript/ch1.md)
-* [🍀 함께 자라기](undefined.md)
+* [🍀 Growing-up Together](growing-up-together.md)

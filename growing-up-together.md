@@ -1,4 +1,12 @@
-# 🍀 함께 자라기
+---
+description: 함께 자라기 - 애자일로 가는 길
+---
+
+# 🍀 Growing-up Together
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 💬 **한줄평**
 
