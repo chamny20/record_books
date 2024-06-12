@@ -13,6 +13,7 @@
   * [9️⃣ 9️⃣ Ch9](refactoring-2nd/ch9.md)
   * [🔟 Ch10](refactoring-2nd/ch10.md)
   * [🕚 Ch11](refactoring-2nd/ch11.md)
+  * [🕛 Ch12](refactoring-2nd/ch12.md)
 * [📘 Effective Typescript](effective-typescript/README.md)
   * [Ch1](effective-typescript/ch1.md)
 * [🍀 Growing-up Together](growing-up-together.md)
