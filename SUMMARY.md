@@ -15,5 +15,6 @@
   * [🕚 Ch11](refactoring-2nd/ch11.md)
   * [🕛 Ch12](refactoring-2nd/ch12.md)
 * [📘 Effective Typescript](effective-typescript/README.md)
-  * [Ch1](effective-typescript/ch1.md)
+  * [1️⃣ 1장 - 타입스크립트 알아보기](effective-typescript/ch1/README.md)
+    * [ITEM1](effective-typescript/ch1/item1.md)
 * [🍀 Growing-up Together](growing-up-together.md)
