@@ -24,5 +24,5 @@
     * [ITEM7](effective-typescript/2/item7.md)
     * [ITEM8](effective-typescript/2/item8.md)
   * [3️⃣ 3장 - 타입 추론](effective-typescript/3.md)
-  * [4️⃣ 4장 타입 설계](effective-typescript/4.md)
+  * [4️⃣ 4장 - 타입 설계](effective-typescript/4.md)
 * [🍀 Growing-up Together](growing-up-together.md)
