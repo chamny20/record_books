@@ -14,7 +14,7 @@
 
  
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="188"><figcaption><p><a href="growing-up-together/">함께 자라기</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="188"><figcaption><p><a href="growing-up-together/">함께 자라기</a></p></figcaption></figure>
 
 </div>
 
