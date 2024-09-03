@@ -28,4 +28,5 @@
   * [5️⃣ 5장 - any 다루기](effective-typescript/5-any.md)
   * [6️⃣ 6장 - 타입 선언과 @types](effective-typescript/6-types.md)
   * [7️⃣ 7장 - 코드를 작성하고 실행하기](effective-typescript/7.md)
+  * [8️⃣ 8장 - 타입스크립트로 마이그레이션하기](effective-typescript/8.md)
 * [🍀 Growing-up Together](growing-up-together.md)
