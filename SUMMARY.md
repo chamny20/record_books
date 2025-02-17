@@ -30,3 +30,6 @@
   * [7️⃣ 7장 - 코드를 작성하고 실행하기](effective-typescript/7.md)
   * [8️⃣ 8장 - 타입스크립트로 마이그레이션하기](effective-typescript/8.md)
 * [🍀 Growing-up Together](growing-up-together.md)
+* [🔥 Core JavaScript](core-javascript/README.md)
+  * [1️⃣ 1장 - 데이터 타입](core-javascript/1.md)
+  * [2️⃣ 2장 - 실행 컨텍스트](core-javascript/2.md)
