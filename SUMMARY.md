@@ -37,6 +37,7 @@
   * [4️⃣ 4장 - 콜백 함수](core-javascript/4.md)
   * [5️⃣ 5장 - 클로저](core-javascript/5.md)
   * [6️⃣ 6장 - 프로토타입](core-javascript/6.md)
+  * [7️⃣ 7장 - 클래스](core-javascript/7.md)
 * [🖼️ Frameworkless FrontEnd Development](frameworkless-frontend-development/README.md)
   * [1장](frameworkless-frontend-development/1.md)
   * [2장](frameworkless-frontend-development/2.md)
