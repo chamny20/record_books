@@ -44,5 +44,5 @@
   * [3장 - DOM 이벤트 관리](frameworkless-frontend-development/3.md)
   * [4장 - 웹 구성 요소](frameworkless-frontend-development/4.md)
   * [5장 - HTTP 요청](frameworkless-frontend-development/5.md)
-* [🆙 Frontend Performace Optimization Guide](frontend-performace-optimization-guide/README.md)
+* [🆙 Frontend Performance Optimization Guide](frontend-performace-optimization-guide/README.md)
   * [블로그 서비스 최적화](frontend-performace-optimization-guide/undefined.md)
