@@ -49,3 +49,4 @@
   * [블로그 서비스 최적화](frontend-performance-optimization-guide/undefined.md)
 * [🦌 Typescript Programming](typescript-programming/README.md)
   * [1장 - 소개](typescript-programming/1.md)
+  * [2장 - 타입스크립트: 3,000미터 상공에서 내려다보기](typescript-programming/2-3-000.md)
