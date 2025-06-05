@@ -46,6 +46,7 @@
   * [5장 - HTTP 요청](frameworkless-frontend-development/5.md)
   * [6장 - 라우팅](frameworkless-frontend-development/6.md)
   * [7장 - 상태 관리](frameworkless-frontend-development/7.md)
+  * [8장](frameworkless-frontend-development/8.md)
 * [🆙 Frontend Performance Optimization Guide](frontend-performance-optimization-guide/README.md)
   * [블로그 서비스 최적화](frontend-performance-optimization-guide/undefined.md)
 * [🦌 Typescript Programming](typescript-programming/README.md)
