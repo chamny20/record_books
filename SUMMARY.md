@@ -54,3 +54,4 @@
   * [2장 - 타입스크립트: 3,000미터 상공에서 내려다보기](typescript-programming/2-3-000.md)
   * [3장 - 타입의 모든 것](typescript-programming/3.md)
   * [4장 - 함수](typescript-programming/4.md)
+  * [5장 - 클래스와 인터페이스](typescript-programming/5.md)
