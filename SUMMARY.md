@@ -55,3 +55,4 @@
   * [3장 - 타입의 모든 것](typescript-programming/3.md)
   * [4장 - 함수](typescript-programming/4.md)
   * [5장 - 클래스와 인터페이스](typescript-programming/5.md)
+  * [6장 - 고급 타입](typescript-programming/6.md)
